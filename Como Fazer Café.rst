@@ -10,9 +10,8 @@ Siga atentamente os passos descritos abaixo para fazer o café:
    total de 12 copos/24 xícaras serem feitos ao mesmo tempo. Sendo assim, não 
    ultrapasse esse limite.
 3. Despeje a água da jarra no recipiente traseiro da cafeteira.
-4. Pegue um filtro de papel, dobre suas pontas, permitindo colocá-lo no recipiente
-   ACIMA do local onde o café ficará condicionado após o processo de
-   filtragem. Condicione o filtro de papel corretamente.
+4. Pegue um filtro de papel, dobre suas pontas, permitindo colocá-lo no recipiente frontal (CONE)
+   onde o pó de café deverá estar condicionado. Condicione o filtro de papel corretamente.
 5. Inclua o pó de café no FILTRO DE PAPEL, dimensionando a quantidade de copos
    através da seguinte relação:
 
