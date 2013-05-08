@@ -4,7 +4,7 @@ HowTo: Como fazer Café
 Siga atentamente os passos descritos abaixo para fazer o café:
 
 1. Lave a jarra da cafeteira, caso 
-   contenha nela algum resquício de café. Não esqueça de lavar as mãos. :)
+   contenha nela algum resquício de café. Não esqueça de lavar as mãos.
 2. Coloque a água (do filtro) na jarra, dimensionando a quantidade de acordo
    com aquantidade de copos de café a serem feitos. A jarra CHEIA permite um 
    total de 12 copos/24 xícaras serem feitos ao mesmo tempo. Sendo assim, não 
@@ -37,11 +37,3 @@ Siga atentamente os passos descritos abaixo para fazer o café:
    temperatura agradável a ser mantida isolada termicamente. Antes de
    colocar a jarra de volta na cafeteira verifique se não está suja de café
    embaixo para não sujar a cafeteira.
-9. Retire o filtro de papel da cafeteira e jogue-o fora no lixo.
-10. Desligue a cafeteira.
-
-ATENÇÃO
-   Se você sujou LIMPE. \
-   Não deixar copos em cima das bancadas. \
-   Jogue o Lixo no Lixo . \
-   É interessante que pelo menos uma vez a cada mês, a cafeteira seja lavada completamente.
