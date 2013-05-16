@@ -6,7 +6,7 @@ Siga atentamente os 8 passos descritos abaixo para fazer o café:
 1. Lave a jarra da cafeteira, caso 
    contenha nela algum resquício de café. Não esqueça de lavar as mãos.
 2. Coloque a água (filtrada) na jarra, dimensionando a quantidade de acordo
-   com aquantidade de copos de café a serem feitos. A jarra CHEIA permite um 
+   com aquantidade de xícaras de café a serem feitas. A jarra CHEIA permite um 
    total de 24 xícaras serem feitos ao mesmo tempo. Sendo assim, não 
    ultrapasse esse limite.
 3. Despeje a água da jarra no recipiente traseiro da cafeteira.
